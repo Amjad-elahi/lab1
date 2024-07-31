@@ -1,5 +1,4 @@
-import 'package:lab1/lab1.dart' as lab1;
-
+import 'add.dart';
 void main(List<String> arguments) {
-  print('Hello world: ${lab1.calculate()}!');
+  add(6,4);
 }
